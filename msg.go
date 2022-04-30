@@ -1,6 +1,6 @@
 package goexample
 
-func Msg() {
+func Msg() string{
  return "Msg Here"
 }
 
